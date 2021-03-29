@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ad81619fbe1cd40468ec071871b3cf78
+timeCreated: 1567191309
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 18thCentury
+  fontNames:
+  - 18thCentury
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
